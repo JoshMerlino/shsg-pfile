@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "rooftop_snipersdata.unityweb",
+"asmCodeUrl": "rooftop_sniperscode.unityweb",
+"asmMemoryUrl": "rooftop_snipersmemory.unityweb",
+"asmFrameworkUrl": "rooftop_snipersframework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#BF6757"
+}
