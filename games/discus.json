@@ -2,9 +2,9 @@
 "companyName": "DefaultCompany",
 "productName": "Discus",
 "productVersion": "0.1",
-"dataUrl": "discus.data.unityweb",
-"wasmCodeUrl": "discus.wasm.code.unityweb",
-"wasmFrameworkUrl": "discus.wasm.framework.unityweb",
+"dataUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/discus.data.unityweb",
+"wasmCodeUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/discus.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/discus.wasm.framework.unityweb",
 "graphicsAPI": [
 "WebGL 2.0",
 "WebGL 1.0"
