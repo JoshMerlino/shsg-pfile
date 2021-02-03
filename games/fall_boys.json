@@ -1,0 +1,16 @@
+{
+"companyName": "BestCrazyGames",
+"productName": "Fall Boys Multiplayer",
+"productVersion": "7",
+"dataUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/fall_boys.data.unityweb",
+"wasmCodeUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/fall_boys.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/fall_boys.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.15f1"
+}
