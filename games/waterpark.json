@@ -1,9 +1,9 @@
 {
 "companyName": "slip",
 "productName": "water park",
-"dataUrl": "GD.data.unityweb",
-"wasmCodeUrl": "GD.wasm.code.unityweb",
-"wasmFrameworkUrl": "GD.wasm.framework.unityweb",
+"dataUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/waterpark.data.unityweb",
+"wasmCodeUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/waterpark.wasm.code.unityweb",
+"wasmFrameworkUrl": "https://cdn.glitch.com/6c0b8b81-12c2-43bd-8a30-a2659f5a9003/waterpark.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
