@@ -1,0 +1,10 @@
+{
+    "dataUrl": "car_munch.data.unityweb",
+    "wasmCodeUrl": "car_munch.wasm.code.unityweb",
+    "wasmFrameworkUrl": "car_munch.wasm.framework.unityweb",
+    "asmCodeUrl": "car_munch.asm.code.unityweb",
+    "asmMemoryUrl": "car_munch.asm.memory.unityweb",
+    "asmFrameworkUrl": "car_munch.asm.framework.unityweb",
+    "splashScreenStyle": "Dark",
+    "backgroundColor": "#231F20"
+}
